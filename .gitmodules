@@ -1,0 +1,80 @@
+[submodule "cviceni-kocici-domecek"]
+	path = cviceni-kocici-domecek
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-kocici-domecek.git
+	branch = main
+[submodule "cviceni-vyskakovaci-okno"]
+	path = cviceni-vyskakovaci-okno
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-vyskakovaci-okno.git
+	branch = main
+[submodule "cviceni-flex-container"]
+	path = cviceni-flex-container
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-flex-container.git
+	branch = main
+[submodule "cviceni-contacts"]
+	path = cviceni-contacts
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-contacts.git
+	branch = main
+[submodule "cviceni-cardio"]
+	path = cviceni-cardio
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-cardio.git
+	branch = main
+[submodule "cviceni-navbar"]
+	path = cviceni-navbar
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-navbar.git
+	branch = main
+[submodule "cviceni-travelweb"]
+	path = cviceni-travelweb
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-travelweb.git
+	branch = main
+[submodule "cviceni-selektory"]
+	path = cviceni-selektory
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-selektory.git
+	branch = main
+[submodule "cviceni-specificita"]
+	path = cviceni-specificita
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-specificita.git
+	branch = main
+[submodule "cviceni-BEM"]
+	path = cviceni-BEM
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-BEM.git
+	branch = main
+[submodule "cviceni-flexibilni-layout"]
+	path = cviceni-flexibilni-layout
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-flexibilni-layout.git
+	branch = main
+[submodule "cviceni-flexibilni-clanek"]
+	path = cviceni-flexibilni-clanek
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-flexibilni-clanek.git
+	branch = main
+[submodule "cviceni-sloupce"]
+	path = cviceni-sloupce
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-sloupce.git
+	branch = main
+[submodule "cviceni-banner"]
+	path = cviceni-banner
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-banner.git
+	branch = main
+[submodule "cviceni-galerie"]
+	path = cviceni-galerie
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-galerie.git
+	branch = main
+[submodule "cviceni-layout-02"]
+	path = cviceni-layout-02
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-layout-02.git
+	branch = main
+[submodule "cviceni-layout-01"]
+	path = cviceni-layout-01
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-layout-01.git
+	branch = main
+[submodule "cviceni-layout-03"]
+	path = cviceni-layout-03
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-layout-03.git
+	branch = main
+[submodule "cviceni-menu"]
+	path = cviceni-menu
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-menu.git
+	branch = main
+[submodule "cviceni-kontakty"]
+	path = cviceni-kontakty
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-kontakty.git
+	branch = main
